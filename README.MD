@@ -1,6 +1,15 @@
 # Tutorial for using RabbitMQ
 
+### 0x01_HelloWorld
+
+**The simplest thing that does something**
+
 [0x1_HelloWorld](docs/0x1_HelloWorld.MD)
+
+
+### 0x02_Work_Queues
+
+**Distributing tasks among workers**
 
 [0x2_Work_Queues](docs/0x2_Work_Queues.MD)
 
